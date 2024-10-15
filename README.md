@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/diverse-group-software-developers-coding-multiple-screens-with-tech-gadgets-scattered_1271244-277767.jpg?w=1060)]
+![MasterHead](https://img.freepik.com/premium-photo/diverse-group-software-developers-coding-multiple-screens-with-tech-gadgets-scattered_1271244-277767.jpg?w=1060)
 <h1 align="center">Hi There👋, I'm Mezbha Ul Haq Fahim</h1>
 <h3 align="center">I'm a student at BRAC University with a strong foundation in Java, C++, C, Python, and proficiency in both SQL and MySQL. I specialize in full-stack development using the MERN stack (MongoDB, Express.js, React, and Node.js), allowing me to build robust and scalable web applications. Having worked on several projects, I am continuously learning and expanding my expertise in web development, backend technologies, and databases. Let's collaborate and create something impactful!</h3>
 
