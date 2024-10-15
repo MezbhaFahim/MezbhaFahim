@@ -20,6 +20,8 @@
 - 📄 Know about my experiences [https://github.com/MezbhaFahim/resume/blob/main/Mezbha%20Ul%20Haq%20Cv.pdf](https://github.com/MezbhaFahim/resume/blob/main/Mezbha%20Ul%20Haq%20Cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
+
+<a href= "[https://www.facebook.com/Phantom.N3rd/](https://www.facebook.com/profile.php?id=100005708534993)">Facebook</a>, <a href= "[https://www.instagram.com/___abrarahmed___/?hl=en](https://www.instagram.com/mezbhaulhaqfahim/)">Instagram</a> <a href= "www.linkedin.com/in/mezbha-ul-haq-fahim-088529256">LinkedIn</a>.
 <p align="left">
 <a href="www.linkedin.com/in/mezbha-ul-haq-fahim-088529256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezbha ul haq fahim" height="30" width="40" /></a>
 <a href="https://fb.com/mezbha ul haq fahim](https://www.facebook.com/profile.php?id=100005708534993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mezbha ul haq fahim" height="30" width="40" /></a>
